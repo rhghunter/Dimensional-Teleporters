@@ -1,0 +1,7 @@
+{
+    "name": "JDK 7 Development",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "postCreateCommand": "java -version"
+}
